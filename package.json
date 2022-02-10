@@ -1,17 +1,17 @@
 {
   "name": "hexo-link-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index",
   "description": "Convert a link to a link card via existing markdown grammar. 使用现有 Markdown 语法将链接转换为卡片式链接.",
-  "keywords" : [
-      "hexo",
-      "markdown",
-      "link",
-      "card",
-      "link card"
+  "keywords": [
+    "hexo",
+    "markdown",
+    "link",
+    "card",
+    "link card"
   ],
-  "license" : "MIT",
-  "author" : {
-      "name" : "OrangeX4"
+  "license": "MIT",
+  "author": {
+    "name": "OrangeX4"
   }
 }
