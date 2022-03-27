@@ -45,7 +45,7 @@ https://github.com/OrangeX4/hexo-link-card
 
 图片展示：
 
-![](https://gitee.com/orangex4/picgo/raw/master/images/20220210201854.png)
+![](https://picgo-1258602555.cos.ap-nanjing.myqcloud.com/20220210201854.png)
 
 ## 卡片式链接的 VSCode 支持
 
